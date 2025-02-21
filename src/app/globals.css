@@ -40,3 +40,9 @@ a {
     color-scheme: dark;
   }
 }
+
+.grid-stack { 
+  width: 100%;
+  background: #FAFAD2; 
+}
+.grid-stack-item-content { background-color: #18BC9C; }
